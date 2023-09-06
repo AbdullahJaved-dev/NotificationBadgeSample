@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationBadgeSample</string>
+    <string name="channel_name">BadgeNotification</string>
+    <string name="channel_description">Badge Notifications for test</string>
+</resources>
